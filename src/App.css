@@ -1,1 +1,11 @@
+.userlist, .userhead{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    border: 1px solid black;
 
+}
+.userhead{
+    justify-content: space-evenly;
+
+}
